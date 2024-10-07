@@ -1,0 +1,13 @@
+#titulo{
+    color: white;
+    font-size: 50px;
+}
+
+.texto{
+    font-style: italic;
+}
+
+body{
+    text-align: center;
+    background-color: rgb(36, 126, 156);
+}
