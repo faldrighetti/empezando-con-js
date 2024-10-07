@@ -9,5 +9,11 @@
 
 body{
     text-align: center;
-    background-color: rgb(36, 126, 156);
+    background-color: rgb(143, 162, 168);
+}
+
+a{
+    font-size: 18px;
+    font-weight: bold;
+    color: red;
 }
